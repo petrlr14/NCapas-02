@@ -31,8 +31,6 @@ public class Validations extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		PrintWriter pw=response.getWriter();
-		pw.println("<body><h1>Llego</h1></body>");
 	}
 
 	/**
